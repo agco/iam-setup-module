@@ -1,0 +1,14 @@
+{
+    "name": "iam-setup-module",
+    "version": "1.0.0",
+    "description": "",
+    "main": "lib/index.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+
+    },
+    "devDependencies": {
+        "chai": "^3.0.0"
+    }
+}
