@@ -1,16 +1,19 @@
 {
-  "name": "iam-setup-module",
-  "version": "1.0.0",
-  "description": "",
-  "main": "lib/index.js",
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "lodash": "^3.10.0"
-  },
-  "devDependencies": {
-    "chai": "^3.0.0",
-    "mocha": "^2.2.5"
-  },
-  "repository": "https://github.com/agco/iam-setup-module.git"
+    "name": "iam-setup-module",
+    "version": "1.0.0",
+    "description": "",
+    "main": "lib/index.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^3.10.0"
+    },
+    "devDependencies": {
+        "chai": "^3.0.0",
+        "mocha": "^2.2.5"
+    },
+    "repository": "https://github.com/agco/iam-setup-module.git",
+    "scripts": {
+        "test": "mocha"
+    }
 }
